@@ -41,22 +41,24 @@ public class Main
 
 
     // Problem 3
-    String string1; 
-    String string2; 
-    String output = "";
+    // String string1 = "balloon"; 
+    // String string2 = "atrophy"; 
+    // String output = "";
 
-    if (string2.length()==string1.length())
-    {
-      for (int i = string1.length()-1; i>=0; i-- )
-      {
-        
-      }
+    // if (string2.length()==string1.length())
+    // {
+    //   for (int i = string2.length()-1; i>=0; i-- )
+    //   {
+    //     String letter1 = string1.substring(i,i+1);
+    //     String letter2 = string2.substring(i,i+1);
+    //     output += (letter2 + letter1);
+    //   }
 
-    }
-    else
-    {
-      System.out.print("error");
-    }
+    // }
+    // else
+    // {
+    //   System.out.println("error");
+    // }
    
 
 
